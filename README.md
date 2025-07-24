@@ -124,9 +124,13 @@ Due to how **Home Manager** and XFCE handle theming, changes may not fully apply
 <details>
 <summary>More Screenshots</summary>
 
-![Image2](./Ressources/Showcase/nyx.png)
-![Image3](./Ressources/Showcase/nixos-ms-surface.png)
+![Image2](./Ressources/Showcase/nyx.png)  
+![Image3](./Ressources/Showcase/nixos-ms-surface.png)  
 ![Image4](./Ressources/Showcase/Games.png)
+
+**Reddit Post:**  
+👉 [See the Reddit showcase post](https://www.reddit.com/r/unixporn/comments/1m865np/xfce_win95_themed_rice_nixos95/)
+
 
 </details>
 
