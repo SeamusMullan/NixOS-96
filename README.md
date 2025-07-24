@@ -126,6 +126,7 @@ Due to how **Home Manager** and XFCE handle theming, changes may not fully apply
 
 ![Image2](./Ressources/Showcase/nyx.png)
 ![Image3](./Ressources/Showcase/nixos-ms-surface.png)
+![Image4](./Ressources/Showcase/Games.png)
 
 </details>
 
