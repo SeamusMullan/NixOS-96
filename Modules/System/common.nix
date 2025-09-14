@@ -24,7 +24,7 @@
     hostName = host;
   };
 
-  time.timeZone = "Europe/Berlin";
+  time.timeZone = "Europe/Dublin";
 
   i18n.defaultLocale = "en_GB.UTF-8";
   i18n.extraLocaleSettings = {
@@ -42,7 +42,7 @@
   nix.settings.experimental-features = ["nix-command" "flakes"];
   nixpkgs.config.allowUnfree = true;
 
-  console.keyMap = "de";
+  console.keyMap = "us";
 
   services.printing.enable = true;
 

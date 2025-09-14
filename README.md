@@ -45,7 +45,7 @@ NixOS-95/
 │   │       ├── default.nix
 │   │       └── Dotfiles/
 │   └── System/
-├── Ressources/
+├── Resources/
 │   ├── Icons/
 │   ├── Images/
 │   │   └── Wallpapers/
@@ -119,14 +119,14 @@ Due to how **Home Manager** and XFCE handle theming, changes may not fully apply
 ## Showcase
 
 
-![Image1](./Ressources/Showcase/vm.png)
+![Image1](./Resources/Showcase/vm.png)
 
 <details>
 <summary>More Screenshots</summary>
 
-![Image2](./Ressources/Showcase/nyx.png)  
-![Image3](./Ressources/Showcase/nixos-ms-surface.png)  
-![Image4](./Ressources/Showcase/Games.png)
+![Image2](./Resources/Showcase/nyx.png)  
+![Image3](./Resources/Showcase/nixos-ms-surface.png)  
+![Image4](./Resources/Showcase/Games.png)
 
 **Reddit Post:**  
 👉 [See the Reddit showcase post](https://www.reddit.com/r/unixporn/comments/1m865np/xfce_win95_themed_rice_nixos95/)

@@ -5,9 +5,9 @@
   ...
 }: let
   
-  chicago95 = pkgs.callPackage ../../../Ressources/Themes/Chicago95/chicago95.nix {};
+  chicago95 = pkgs.callPackage ../../../Resources/Themes/Chicago95/chicago95.nix {};
   dotfilesPath = ./Dotfiles;
-  resourcesPath = ../../../Ressources;
+  resourcesPath = ../../../Resources;
   wallpaperFile = "Wallpaper/NixOS-95-wallpaper.png";
   wallpaperPath = "${config.home.homeDirectory}/${wallpaperFile}";
   wallpaperOrigin = "${resourcesPath}/Images/Wallpapers/Wallpaper-1.png";
@@ -21,7 +21,7 @@ in {
     };
     iconTheme = {
       name = "Win95_plus";
-      package = pkgs.callPackage ../../../Ressources/Themes/Win95_plus/win95_plus.nix {};
+      package = pkgs.callPackage ../../../Resources/Themes/Win95_plus/win95_plus.nix {};
     };
     cursorTheme = {
       name = "Chicago95";

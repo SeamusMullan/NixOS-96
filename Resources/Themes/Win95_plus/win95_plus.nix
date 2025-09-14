@@ -5,7 +5,7 @@ stdenvNoCC.mkDerivation (finalAttrs: {
   version = "1.0.0";
 
 
-  src = ../../../Ressources/Icons/Win95_plus;  # directory containing icons_32x32 etc. Ressources/Icons/Win95_plus/index.theme
+  src = ../../../Resources/Icons/Win95_plus;  # directory containing icons_32x32 etc. Resources/Icons/Win95_plus/index.theme
 
   dontBuild = true;
 
